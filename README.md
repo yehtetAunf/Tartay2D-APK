@@ -1,4 +1,4 @@
-# TARTAY 2D APK v1.2
+# TARTAY 2D APK v1.3
 Android WebView wrapper for တာတေ 2D.
 
 Changes in v1.2:
@@ -8,3 +8,7 @@ Changes in v1.2:
 - Does not bypass SSL/TLS certificate errors.
 
 Upload the repository contents to GitHub and run the included Build TARTAY 2D APK workflow.
+
+
+### v1.3
+- Forces WebView to request the latest deployed Tartay 2D page instead of restoring stale cached content.
